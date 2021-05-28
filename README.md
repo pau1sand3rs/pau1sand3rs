@@ -2,7 +2,7 @@ I use this GitHub repository primarily to organize my TidalCycles code here. For
 
 If you aren't familiar with TidalCycles, here is some info: https://tidalcycles.org/Welcome
 
-On the professional side of things, I'm a consultant with experience in digital strategy, digital marketing and analysis. I utilize Agile and Lean approaches in my work.
+On the professional side of things, I'm a consultant with experience in digital strategy, digital marketing and analysis. I utilize Agile and Lean approaches in my work. See my resume.
 
 
 
